@@ -1,6 +1,7 @@
 array.push(elements)
-
+ updated_array = using_push(colors_in_the_rainbow, next_color
 array.unshift
+
 array.pop
 array.pop_with_args
 array.shift
