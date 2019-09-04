@@ -3,8 +3,9 @@ array.push(elements)
 array.unshift
  @updated_array = using_unshift(bouroughs_in_nyc, @new_neighborhood)
 array.pop
-
+@updated_array = using_unshift(bouroughs_in_nyc, @new_neighborhood)
 array.pop_with_args
+
 array.shift
 array.shift_with_args
 array.concat
